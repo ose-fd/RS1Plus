@@ -1,6 +1,7 @@
 package com.ose.rs1plus.blockentity;
 
 import com.ose.rs1plus.node.CrafterManagerPanelNetworkNode;
+import com.ose.rs1plus.panel.PanelCapabilitySupport;
 import com.refinedmods.refinedstorage.apiimpl.network.node.CrafterManagerNetworkNode;
 import com.refinedmods.refinedstorage.blockentity.CrafterManagerBlockEntity;
 import net.minecraft.core.BlockPos;

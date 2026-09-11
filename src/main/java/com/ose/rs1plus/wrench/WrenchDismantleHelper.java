@@ -1,4 +1,4 @@
-package com.ose.rs1plus.event;
+package com.ose.rs1plus.wrench;
 
 import com.ose.rs1plus.config.RS1PlusCommonConfig;
 import com.refinedmods.refinedstorage.api.network.INetwork;

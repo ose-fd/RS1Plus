@@ -1,4 +1,4 @@
-package com.ose.rs1plus.node;
+package com.ose.rs1plus.panel;
 
 import net.minecraft.core.Direction;
 

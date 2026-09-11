@@ -1,4 +1,4 @@
-package com.ose.rs1plus.block;
+package com.ose.rs1plus.panel;
 
 import net.minecraft.core.Direction;
 import net.minecraft.world.item.context.BlockPlaceContext;

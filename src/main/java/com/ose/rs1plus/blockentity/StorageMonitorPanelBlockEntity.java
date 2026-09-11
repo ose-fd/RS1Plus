@@ -1,6 +1,7 @@
 package com.ose.rs1plus.blockentity;
 
 import com.ose.rs1plus.node.StorageMonitorPanelNetworkNode;
+import com.ose.rs1plus.panel.PanelCapabilitySupport;
 import com.refinedmods.refinedstorage.apiimpl.network.node.StorageMonitorNetworkNode;
 import com.refinedmods.refinedstorage.blockentity.StorageMonitorBlockEntity;
 import net.minecraft.core.BlockPos;

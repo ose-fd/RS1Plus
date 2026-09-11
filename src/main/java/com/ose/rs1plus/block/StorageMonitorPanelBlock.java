@@ -1,6 +1,7 @@
 package com.ose.rs1plus.block;
 
 import com.ose.rs1plus.blockentity.StorageMonitorPanelBlockEntity;
+import com.ose.rs1plus.panel.PanelPlacement;
 import com.refinedmods.refinedstorage.apiimpl.network.node.StorageMonitorNetworkNode;
 import com.refinedmods.refinedstorage.block.BlockDirection;
 import com.refinedmods.refinedstorage.block.StorageMonitorBlock;

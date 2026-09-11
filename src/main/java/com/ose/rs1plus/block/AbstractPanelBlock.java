@@ -1,5 +1,7 @@
 package com.ose.rs1plus.block;
 
+import com.ose.rs1plus.panel.PanelColorSwap;
+import com.ose.rs1plus.panel.PanelPlacement;
 import com.refinedmods.refinedstorage.api.network.grid.GridType;
 import com.refinedmods.refinedstorage.apiimpl.API;
 import com.refinedmods.refinedstorage.apiimpl.network.grid.factory.GridBlockGridFactory;

@@ -1,6 +1,6 @@
 package com.ose.rs1plus.mixin;
 
-import com.ose.rs1plus.event.WrenchDismantleHelper;
+import com.ose.rs1plus.wrench.WrenchDismantleHelper;
 import com.refinedmods.refinedstorage.item.WrenchItem;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.InteractionResult;

@@ -1,4 +1,4 @@
-package com.ose.rs1plus.block;
+package com.ose.rs1plus.panel;
 
 import com.refinedmods.refinedstorage.api.network.INetwork;
 import com.refinedmods.refinedstorage.api.network.node.INetworkNode;

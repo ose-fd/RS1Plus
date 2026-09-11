@@ -1,4 +1,4 @@
 # Changelog
 
 ## 1.0.0 - Initial release
-- First public release of the project.
+- First public release.

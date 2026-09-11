@@ -4,9 +4,9 @@ import com.refinedmods.refinedstorage.api.network.grid.GridType;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.block.state.BlockState;
 
-public class NormalPanelBlockEntity extends AbstractPanelBlockEntity {
+public class GridPanelBlockEntity extends AbstractPanelBlockEntity {
 
-    public NormalPanelBlockEntity(BlockPos pos, BlockState state) {
+    public GridPanelBlockEntity(BlockPos pos, BlockState state) {
         super(GridType.NORMAL, pos, state);
     }
 }
