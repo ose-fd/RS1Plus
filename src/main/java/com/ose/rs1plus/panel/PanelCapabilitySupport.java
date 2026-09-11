@@ -1,11 +1,9 @@
-package com.ose.rs1plus.blockentity;
+package com.ose.rs1plus.panel;
 
-import com.ose.rs1plus.node.PanelAttachedSide;
 import com.refinedmods.refinedstorage.capability.NetworkNodeProxyCapability;
 import net.minecraft.core.Direction;
 import net.minecraftforge.common.capabilities.Capability;
 import net.minecraftforge.common.util.LazyOptional;
-
 import javax.annotation.Nonnull;
 import javax.annotation.Nullable;
 import java.util.function.BiFunction;

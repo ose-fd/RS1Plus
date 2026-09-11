@@ -1,4 +1,4 @@
-package com.ose.rs1plus.node;
+package com.ose.rs1plus.panel;
 
 import com.refinedmods.refinedstorage.api.network.grid.GridType;
 import com.refinedmods.refinedstorage.apiimpl.network.node.GridNetworkNode;

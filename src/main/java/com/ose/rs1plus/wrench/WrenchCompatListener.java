@@ -1,4 +1,4 @@
-package com.ose.rs1plus.event;
+package com.ose.rs1plus.wrench;
 
 import com.refinedmods.refinedstorage.block.BaseBlock;
 import com.ose.rs1plus.RS1PlusMod;

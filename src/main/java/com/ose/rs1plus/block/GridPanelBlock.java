@@ -1,7 +1,7 @@
 package com.ose.rs1plus.block;
 
+import com.ose.rs1plus.blockentity.GridPanelBlockEntity;
 import com.refinedmods.refinedstorage.api.network.grid.GridType;
-import com.ose.rs1plus.blockentity.NormalPanelBlockEntity;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.item.DyeColor;
 import net.minecraft.world.level.block.entity.BlockEntity;
@@ -10,15 +10,15 @@ import net.minecraftforge.registries.RegistryObject;
 
 import javax.annotation.Nullable;
 
-public class NormalPanelBlock extends AbstractPanelBlock {
+public class GridPanelBlock extends AbstractPanelBlock {
 
-    public NormalPanelBlock(@Nullable DyeColor color) {
+    public GridPanelBlock(@Nullable DyeColor color) {
         super(GridType.NORMAL, color);
     }
 
     @Override
     public BlockEntity newBlockEntity(BlockPos pos, BlockState state) {
-        return new NormalPanelBlockEntity(pos, state);
+        return new GridPanelBlockEntity(pos, state);
     }
 
     @Override

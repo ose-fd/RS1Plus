@@ -20,10 +20,10 @@ public class ModBlocks {
     public static final Map<DyeColor, RegistryObject<CraftingGridPanelBlock>> CRAFTING_GRID_PANEL_COLORED =
             registerColored("crafting_grid_panel", CraftingGridPanelBlock::new);
 
-    public static final RegistryObject<NormalPanelBlock> GRID_PANEL =
-            BLOCKS.register("grid_panel", () -> new NormalPanelBlock(null));
-    public static final Map<DyeColor, RegistryObject<NormalPanelBlock>> GRID_PANEL_COLORED =
-            registerColored("grid_panel", NormalPanelBlock::new);
+    public static final RegistryObject<GridPanelBlock> GRID_PANEL =
+            BLOCKS.register("grid_panel", () -> new GridPanelBlock(null));
+    public static final Map<DyeColor, RegistryObject<GridPanelBlock>> GRID_PANEL_COLORED =
+            registerColored("grid_panel", GridPanelBlock::new);
 
     public static final RegistryObject<FluidGridPanelBlock> FLUID_GRID_PANEL =
             BLOCKS.register("fluid_grid_panel", () -> new FluidGridPanelBlock(null));

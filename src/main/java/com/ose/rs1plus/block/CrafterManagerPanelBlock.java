@@ -1,6 +1,8 @@
 package com.ose.rs1plus.block;
 
 import com.ose.rs1plus.blockentity.CrafterManagerPanelBlockEntity;
+import com.ose.rs1plus.panel.PanelColorSwap;
+import com.ose.rs1plus.panel.PanelPlacement;
 import com.refinedmods.refinedstorage.api.network.security.Permission;
 import com.refinedmods.refinedstorage.block.BlockDirection;
 import com.refinedmods.refinedstorage.block.CrafterManagerBlock;

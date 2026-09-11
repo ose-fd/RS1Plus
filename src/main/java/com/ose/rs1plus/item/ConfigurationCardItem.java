@@ -71,14 +71,11 @@ public class ConfigurationCardItem extends Item {
             return InteractionResult.SUCCESS;
         }
 
-
-        BlockEntity be = context.getLevel().getBlockEntity(context.getClickedPos());
-
         BlockEntity be = context.getLevel().getBlockEntity(context.getClickedPos());
 
         ResourceLocation blockId =
                 ForgeRegistries.BLOCKS.getKey(context.getLevel().getBlockState(context.getClickedPos()).getBlock());
-
+        // Inutil copiar configuracion de cables
         if (new ResourceLocation("refinedstorage", "cable").equals(blockId)) {
             return InteractionResult.PASS;
         }

@@ -1,6 +1,7 @@
 package com.ose.rs1plus.blockentity;
 
-import com.ose.rs1plus.node.PanelNetworkNode;
+import com.ose.rs1plus.panel.PanelNetworkNode;
+import com.ose.rs1plus.panel.PanelCapabilitySupport;
 import com.refinedmods.refinedstorage.api.network.grid.GridType;
 import com.refinedmods.refinedstorage.apiimpl.network.node.GridNetworkNode;
 import com.refinedmods.refinedstorage.blockentity.grid.GridBlockEntity;
