@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="RS1+ Logo" width="500">
+  <img src="images/logo.png" alt="RS1+ Logo" width="250">
 </p>
 
 RS1+
