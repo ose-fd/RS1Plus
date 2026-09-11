@@ -1,0 +1,6 @@
+{
+  "parent": "rs1plus:block/grid_panel/_base_nonemissive",
+  "textures": {
+    "1": "refinedstorage:block/grid/cutouts/disconnected"
+  }
+}

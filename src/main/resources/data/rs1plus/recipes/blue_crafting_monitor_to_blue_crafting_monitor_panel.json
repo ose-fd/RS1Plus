@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:blue_crafting_monitor"
+    }
+  ],
+  "result": {
+    "item": "rs1plus:blue_crafting_monitor_panel"
+  }
+}

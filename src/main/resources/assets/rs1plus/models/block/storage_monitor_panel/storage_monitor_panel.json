@@ -1,0 +1,6 @@
+{
+  "parent": "rs1plus:block/storage_monitor_panel/_base",
+  "textures": {
+    "1": "refinedstorage:block/storage_monitor_front"
+  }
+}

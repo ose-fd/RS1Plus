@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:black_grid"
+    }
+  ],
+  "result": {
+    "item": "rs1plus:black_grid_panel"
+  }
+}

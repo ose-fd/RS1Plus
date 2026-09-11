@@ -1,0 +1,6 @@
+{
+  "parent": "rs1plus:block/crafter_manager_panel/_base",
+  "textures": {
+    "1": "refinedstorage:block/crafter_manager/cutouts/light_gray"
+  }
+}

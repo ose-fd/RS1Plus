@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:purple_crafter_manager"
+    }
+  ],
+  "result": {
+    "item": "rs1plus:purple_crafter_manager_panel"
+  }
+}

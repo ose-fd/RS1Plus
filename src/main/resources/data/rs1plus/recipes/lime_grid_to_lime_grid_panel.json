@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:lime_grid"
+    }
+  ],
+  "result": {
+    "item": "rs1plus:lime_grid_panel"
+  }
+}

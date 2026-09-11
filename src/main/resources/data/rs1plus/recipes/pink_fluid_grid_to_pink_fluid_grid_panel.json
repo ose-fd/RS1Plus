@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:pink_fluid_grid"
+    }
+  ],
+  "result": {
+    "item": "rs1plus:pink_fluid_grid_panel"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.ose.rs1plus.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "rs1plus.refmap.json",
+  "mixins": [
+    "GridContainerMenuMixin",
+    "WrenchItemMixin",
+    "BlockEntityTypeAccessor"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

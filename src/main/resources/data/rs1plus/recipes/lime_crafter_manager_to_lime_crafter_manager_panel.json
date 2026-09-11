@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:lime_crafter_manager"
+    }
+  ],
+  "result": {
+    "item": "rs1plus:lime_crafter_manager_panel"
+  }
+}

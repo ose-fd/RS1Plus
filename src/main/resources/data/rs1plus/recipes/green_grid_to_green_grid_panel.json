@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:green_grid"
+    }
+  ],
+  "result": {
+    "item": "rs1plus:green_grid_panel"
+  }
+}

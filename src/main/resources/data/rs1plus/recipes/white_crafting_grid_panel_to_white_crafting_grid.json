@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "rs1plus:white_crafting_grid_panel"
+    }
+  ],
+  "result": {
+    "item": "refinedstorage:white_crafting_grid"
+  }
+}

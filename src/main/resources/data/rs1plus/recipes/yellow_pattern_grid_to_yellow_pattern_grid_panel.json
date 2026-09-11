@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:yellow_pattern_grid"
+    }
+  ],
+  "result": {
+    "item": "rs1plus:yellow_pattern_grid_panel"
+  }
+}

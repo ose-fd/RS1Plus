@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:light_gray_pattern_grid"
+    }
+  ],
+  "result": {
+    "item": "rs1plus:light_gray_pattern_grid_panel"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:magenta_crafter_manager"
+    }
+  ],
+  "result": {
+    "item": "rs1plus:magenta_crafter_manager_panel"
+  }
+}

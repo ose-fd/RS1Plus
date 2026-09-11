@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "refinedstorage:purple_crafting_grid"
+    }
+  ],
+  "result": {
+    "item": "rs1plus:purple_crafting_grid_panel"
+  }
+}

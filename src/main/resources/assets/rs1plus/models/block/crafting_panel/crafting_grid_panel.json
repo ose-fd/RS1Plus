@@ -1,0 +1,6 @@
+{
+  "parent": "rs1plus:block/crafting_panel/_base",
+  "textures": {
+    "1": "refinedstorage:block/crafting_grid/cutouts/light_blue"
+  }
+}

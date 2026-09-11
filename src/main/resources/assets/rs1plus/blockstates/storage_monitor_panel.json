@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "direction=north": {
+      "model": "rs1plus:block/storage_monitor_panel/storage_monitor_panel",
+      "y": 0
+    },
+    "direction=east": {
+      "model": "rs1plus:block/storage_monitor_panel/storage_monitor_panel",
+      "y": 90
+    },
+    "direction=south": {
+      "model": "rs1plus:block/storage_monitor_panel/storage_monitor_panel",
+      "y": 180
+    },
+    "direction=west": {
+      "model": "rs1plus:block/storage_monitor_panel/storage_monitor_panel",
+      "y": 270
+    }
+  }
+}
