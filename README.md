@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="images/logo.png" alt="RS1+ Logo" width="250">
+  <img src="images/logo.png" alt="RS1+ Logo" width="200">
 </p>
 
-RS1+
+## RS1+
 
 RS1+ backports features from Refined Storage 2 to Refined Storage 1 v1.12.4 and adds panel variants of RS1's core devices.
 
